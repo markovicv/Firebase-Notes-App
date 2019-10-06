@@ -1,10 +1,10 @@
 # Firebase-Notes-App
 
-Simple notes app that uses firebase for backend.
+### Project overview
+Simple notes app that uses firebase for backend.First time learning firebase<br/>
 
-## Current Features:
+### Current Features:
 -  Adding notes
 - Deleting notes
 - Sorting by priority
-## Todo:
- - Update
+
